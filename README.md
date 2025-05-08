@@ -10,7 +10,7 @@ DOMAIN : DATA ANALYTICS DURATION : 4 WEEKS
 
 # DISCRIPTION :
 
-This project showcases an interactive dashboard created using Power BI to analyze and visualize social media engagement metrics across platforms like Twitter, TikTok, Instagram, and Reddit.
+This task showcases an interactive dashboard created using Power BI to analyze and visualize social media engagement metrics across platforms like Twitter, TikTok, Instagram, and Reddit.
 
 Overview of the Task
 Data Integration: Imported the dataset into Power BI and structured it to ensure seamless analysis.
