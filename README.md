@@ -24,3 +24,7 @@ Visualization Setup: Configured interactive bar charts to compare platform-wise 
 Insights: Highlighted trends in social media engagement, helping to identify the platforms with the highest and lowest user interaction.
 
 This dashboard effectively demonstrates how Power BI can be utilized to derive actionable insights from data, making it a valuable tool for strategic decision-making.
+
+# OUTPUT : 
+
+![Image](https://github.com/user-attachments/assets/9c6915c6-8c2a-4652-b24c-daa9078e7e55)
